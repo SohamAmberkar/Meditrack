@@ -1,0 +1,3 @@
+[submodule "Counterfeit-Med-Detection"]
+	path = Counterfeit-Med-Detection
+	url = https://github.com/ayushi-2104/Counterfeit-Med-Detection

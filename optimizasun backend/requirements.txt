@@ -1,0 +1,23 @@
+# Data Handling & Numerics
+pandas
+numpy
+
+# Machine Learning & AI
+scikit-learn
+xgboost
+prophet
+
+# Deep Learning (for NLP & Computer Vision)
+torch
+torchvision
+transformers
+easyocr
+opencv-python-headless
+
+# API Framework
+Flask
+Flask-Cors
+
+# Visualization
+matplotlib
+seaborn

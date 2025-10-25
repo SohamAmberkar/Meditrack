@@ -1,0 +1,9 @@
+{
+  "name": "supplychain-dev",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+  "features": {
+    "docker-in-docker": "latest"
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install -r /workspace/requirements.txt",
+  "workspaceFolder": "/workspace"
+}

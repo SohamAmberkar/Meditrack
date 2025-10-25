@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+ortools
+osmnx
+networkx
+geopandas
+matplotlib
+jupyter
+gym
+stable-baselines3
+torch         # install matching your CUDA/CPU setup using official PyTorch instructions
+torch-geometric   # PyG: follow PyG install for your torch/cu version

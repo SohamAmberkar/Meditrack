@@ -1,0 +1,10 @@
+# Define the paths to your data
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+# Define the number of classes
+nc: 2
+
+# Define the class names
+names: ["authentic", "counterfeit"]

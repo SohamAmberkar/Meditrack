@@ -1,0 +1,602 @@
+[
+    {
+        "customer_id": 0,
+        "x": 82,
+        "y": 52,
+        "demand": 25
+    },
+    {
+        "customer_id": 1,
+        "x": 16,
+        "y": 91,
+        "demand": 19
+    },
+    {
+        "customer_id": 2,
+        "x": 30,
+        "y": 34,
+        "demand": 17
+    },
+    {
+        "customer_id": 3,
+        "x": 68,
+        "y": 90,
+        "demand": 22
+    },
+    {
+        "customer_id": 4,
+        "x": 58,
+        "y": 23,
+        "demand": 21
+    },
+    {
+        "customer_id": 5,
+        "x": 75,
+        "y": 91,
+        "demand": 16
+    },
+    {
+        "customer_id": 6,
+        "x": 57,
+        "y": 32,
+        "demand": 22
+    },
+    {
+        "customer_id": 7,
+        "x": 6,
+        "y": 45,
+        "demand": 14
+    },
+    {
+        "customer_id": 8,
+        "x": 90,
+        "y": 47,
+        "demand": 22
+    },
+    {
+        "customer_id": 9,
+        "x": 46,
+        "y": 6,
+        "demand": 27
+    },
+    {
+        "customer_id": 10,
+        "x": 66,
+        "y": 74,
+        "demand": 11
+    },
+    {
+        "customer_id": 11,
+        "x": 90,
+        "y": 96,
+        "demand": 10
+    },
+    {
+        "customer_id": 12,
+        "x": 19,
+        "y": 39,
+        "demand": 29
+    },
+    {
+        "customer_id": 13,
+        "x": 90,
+        "y": 74,
+        "demand": 12
+    },
+    {
+        "customer_id": 14,
+        "x": 6,
+        "y": 13,
+        "demand": 19
+    },
+    {
+        "customer_id": 15,
+        "x": 31,
+        "y": 93,
+        "demand": 28
+    },
+    {
+        "customer_id": 16,
+        "x": 18,
+        "y": 55,
+        "demand": 28
+    },
+    {
+        "customer_id": 17,
+        "x": 80,
+        "y": 67,
+        "demand": 23
+    },
+    {
+        "customer_id": 18,
+        "x": 76,
+        "y": 3,
+        "demand": 30
+    },
+    {
+        "customer_id": 19,
+        "x": 97,
+        "y": 38,
+        "demand": 23
+    },
+    {
+        "customer_id": 20,
+        "x": 51,
+        "y": 36,
+        "demand": 29
+    },
+    {
+        "customer_id": 21,
+        "x": 22,
+        "y": 90,
+        "demand": 29
+    },
+    {
+        "customer_id": 22,
+        "x": 10,
+        "y": 32,
+        "demand": 12
+    },
+    {
+        "customer_id": 23,
+        "x": 70,
+        "y": 69,
+        "demand": 18
+    },
+    {
+        "customer_id": 24,
+        "x": 15,
+        "y": 48,
+        "demand": 19
+    },
+    {
+        "customer_id": 25,
+        "x": 95,
+        "y": 41,
+        "demand": 26
+    },
+    {
+        "customer_id": 26,
+        "x": 72,
+        "y": 3,
+        "demand": 16
+    },
+    {
+        "customer_id": 27,
+        "x": 34,
+        "y": 45,
+        "demand": 15
+    },
+    {
+        "customer_id": 28,
+        "x": 15,
+        "y": 75,
+        "demand": 14
+    },
+    {
+        "customer_id": 29,
+        "x": 54,
+        "y": 61,
+        "demand": 28
+    },
+    {
+        "customer_id": 30,
+        "x": 34,
+        "y": 62,
+        "demand": 13
+    },
+    {
+        "customer_id": 31,
+        "x": 85,
+        "y": 93,
+        "demand": 29
+    },
+    {
+        "customer_id": 32,
+        "x": 83,
+        "y": 22,
+        "demand": 23
+    },
+    {
+        "customer_id": 33,
+        "x": 16,
+        "y": 52,
+        "demand": 16
+    },
+    {
+        "customer_id": 34,
+        "x": 40,
+        "y": 6,
+        "demand": 25
+    },
+    {
+        "customer_id": 35,
+        "x": 97,
+        "y": 33,
+        "demand": 18
+    },
+    {
+        "customer_id": 36,
+        "x": 69,
+        "y": 75,
+        "demand": 21
+    },
+    {
+        "customer_id": 37,
+        "x": 34,
+        "y": 82,
+        "demand": 10
+    },
+    {
+        "customer_id": 38,
+        "x": 14,
+        "y": 10,
+        "demand": 26
+    },
+    {
+        "customer_id": 39,
+        "x": 6,
+        "y": 71,
+        "demand": 20
+    },
+    {
+        "customer_id": 40,
+        "x": 52,
+        "y": 96,
+        "demand": 10
+    },
+    {
+        "customer_id": 41,
+        "x": 69,
+        "y": 57,
+        "demand": 16
+    },
+    {
+        "customer_id": 42,
+        "x": 42,
+        "y": 71,
+        "demand": 29
+    },
+    {
+        "customer_id": 43,
+        "x": 46,
+        "y": 61,
+        "demand": 12
+    },
+    {
+        "customer_id": 44,
+        "x": 86,
+        "y": 57,
+        "demand": 12
+    },
+    {
+        "customer_id": 45,
+        "x": 17,
+        "y": 88,
+        "demand": 20
+    },
+    {
+        "customer_id": 46,
+        "x": 16,
+        "y": 9,
+        "demand": 27
+    },
+    {
+        "customer_id": 47,
+        "x": 29,
+        "y": 34,
+        "demand": 21
+    },
+    {
+        "customer_id": 48,
+        "x": 56,
+        "y": 86,
+        "demand": 22
+    },
+    {
+        "customer_id": 49,
+        "x": 72,
+        "y": 31,
+        "demand": 14
+    },
+    {
+        "customer_id": 50,
+        "x": 51,
+        "y": 95,
+        "demand": 25
+    },
+    {
+        "customer_id": 51,
+        "x": 52,
+        "y": 9,
+        "demand": 22
+    },
+    {
+        "customer_id": 52,
+        "x": 39,
+        "y": 87,
+        "demand": 28
+    },
+    {
+        "customer_id": 53,
+        "x": 78,
+        "y": 37,
+        "demand": 26
+    },
+    {
+        "customer_id": 54,
+        "x": 60,
+        "y": 51,
+        "demand": 27
+    },
+    {
+        "customer_id": 55,
+        "x": 96,
+        "y": 81,
+        "demand": 21
+    },
+    {
+        "customer_id": 56,
+        "x": 86,
+        "y": 21,
+        "demand": 24
+    },
+    {
+        "customer_id": 57,
+        "x": 57,
+        "y": 98,
+        "demand": 16
+    },
+    {
+        "customer_id": 58,
+        "x": 78,
+        "y": 11,
+        "demand": 10
+    },
+    {
+        "customer_id": 59,
+        "x": 28,
+        "y": 70,
+        "demand": 24
+    },
+    {
+        "customer_id": 60,
+        "x": 95,
+        "y": 93,
+        "demand": 20
+    },
+    {
+        "customer_id": 61,
+        "x": 32,
+        "y": 55,
+        "demand": 14
+    },
+    {
+        "customer_id": 62,
+        "x": 68,
+        "y": 10,
+        "demand": 10
+    },
+    {
+        "customer_id": 63,
+        "x": 88,
+        "y": 87,
+        "demand": 11
+    },
+    {
+        "customer_id": 64,
+        "x": 47,
+        "y": 84,
+        "demand": 28
+    },
+    {
+        "customer_id": 65,
+        "x": 54,
+        "y": 82,
+        "demand": 24
+    },
+    {
+        "customer_id": 66,
+        "x": 42,
+        "y": 48,
+        "demand": 14
+    },
+    {
+        "customer_id": 67,
+        "x": 36,
+        "y": 64,
+        "demand": 23
+    },
+    {
+        "customer_id": 68,
+        "x": 93,
+        "y": 84,
+        "demand": 30
+    },
+    {
+        "customer_id": 69,
+        "x": 32,
+        "y": 13,
+        "demand": 27
+    },
+    {
+        "customer_id": 70,
+        "x": 8,
+        "y": 44,
+        "demand": 13
+    },
+    {
+        "customer_id": 71,
+        "x": 40,
+        "y": 94,
+        "demand": 21
+    },
+    {
+        "customer_id": 72,
+        "x": 25,
+        "y": 77,
+        "demand": 25
+    },
+    {
+        "customer_id": 73,
+        "x": 36,
+        "y": 79,
+        "demand": 28
+    },
+    {
+        "customer_id": 74,
+        "x": 29,
+        "y": 46,
+        "demand": 25
+    },
+    {
+        "customer_id": 75,
+        "x": 83,
+        "y": 86,
+        "demand": 24
+    },
+    {
+        "customer_id": 76,
+        "x": 98,
+        "y": 65,
+        "demand": 25
+    },
+    {
+        "customer_id": 77,
+        "x": 9,
+        "y": 36,
+        "demand": 19
+    },
+    {
+        "customer_id": 78,
+        "x": 56,
+        "y": 9,
+        "demand": 29
+    },
+    {
+        "customer_id": 79,
+        "x": 32,
+        "y": 83,
+        "demand": 23
+    },
+    {
+        "customer_id": 80,
+        "x": 48,
+        "y": 79,
+        "demand": 21
+    },
+    {
+        "customer_id": 81,
+        "x": 86,
+        "y": 32,
+        "demand": 15
+    },
+    {
+        "customer_id": 82,
+        "x": 80,
+        "y": 84,
+        "demand": 28
+    },
+    {
+        "customer_id": 83,
+        "x": 69,
+        "y": 7,
+        "demand": 26
+    },
+    {
+        "customer_id": 84,
+        "x": 39,
+        "y": 79,
+        "demand": 12
+    },
+    {
+        "customer_id": 85,
+        "x": 75,
+        "y": 99,
+        "demand": 30
+    },
+    {
+        "customer_id": 86,
+        "x": 83,
+        "y": 14,
+        "demand": 17
+    },
+    {
+        "customer_id": 87,
+        "x": 12,
+        "y": 61,
+        "demand": 26
+    },
+    {
+        "customer_id": 88,
+        "x": 27,
+        "y": 81,
+        "demand": 26
+    },
+    {
+        "customer_id": 89,
+        "x": 38,
+        "y": 47,
+        "demand": 25
+    },
+    {
+        "customer_id": 90,
+        "x": 14,
+        "y": 52,
+        "demand": 22
+    },
+    {
+        "customer_id": 91,
+        "x": 2,
+        "y": 44,
+        "demand": 23
+    },
+    {
+        "customer_id": 92,
+        "x": 64,
+        "y": 88,
+        "demand": 16
+    },
+    {
+        "customer_id": 93,
+        "x": 58,
+        "y": 14,
+        "demand": 30
+    },
+    {
+        "customer_id": 94,
+        "x": 70,
+        "y": 97,
+        "demand": 13
+    },
+    {
+        "customer_id": 95,
+        "x": 47,
+        "y": 12,
+        "demand": 13
+    },
+    {
+        "customer_id": 96,
+        "x": 25,
+        "y": 18,
+        "demand": 27
+    },
+    {
+        "customer_id": 97,
+        "x": 25,
+        "y": 69,
+        "demand": 30
+    },
+    {
+        "customer_id": 98,
+        "x": 85,
+        "y": 91,
+        "demand": 20
+    },
+    {
+        "customer_id": 99,
+        "x": 57,
+        "y": 63,
+        "demand": 20
+    }
+]
